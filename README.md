@@ -7,6 +7,14 @@ I’m pushing each day's solution here, writing explanations, and sharing progre
 
 ---
 
+## 📅 Progress Log
+
+| Day    | Date       | Problem                          | Difficulty | Code Link |
+|--------|------------|----------------------------------|------------|-----------|
+| Day 1  | 2025-06-26 | Palindrome Number (LeetCode #9) | Easy       | [Java](./Day%2001/LeetCode9_PalindromeNumber.java) |
+
+---
+
 ## 📌 Goals
 
 - Improve DSA fundamentals
