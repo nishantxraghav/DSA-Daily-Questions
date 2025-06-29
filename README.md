@@ -14,6 +14,8 @@ I’m pushing each day's solution here, writing explanations, and sharing progre
 | Day 1 | 2025-06-26 | Palindrome Number (LeetCode #9)         | Easy       | [Java](./Day1.java) |
 | Day 2 | 2025-06-27 | Power of Three (LeetCode #326)          | Easy       | [Java](./Day2.java) |
 | Day 3 | 2025-06-28 | Fibonacci Number (LeetCode #509)        | Easy       | [Java](./Day3.java) |
+| Day 4 | 2025-06-29 | Tribonacci Number (LeetCode #1137) | Easy | [Java](./Day4.java) |
+
 
 ---
 
